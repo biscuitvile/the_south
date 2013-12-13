@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = TheSouth::VERSION
   spec.authors       = ["Andy Borsz"]
   spec.email         = ["andy.borsz@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = "Everything you love about the South in Ruby gem form!"
+  spec.summary       = "This charming yet useless gem injects Southern hospitality into any Ruby program."
+  spec.homepage      = "https://github.com/biscuitvile/the_south"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
