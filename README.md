@@ -1,6 +1,8 @@
-# TheSouth
+# The South: The Gem
 
-TODO: Write a gem description
+This charming yet useless gem injects Southern hospitality into any Ruby program.
+
+I assure you I've lived there long enough to know.
 
 ## Installation
 
@@ -18,7 +20,23 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```
+South.rise_again
+```
+
+If you're adament:
+
+```
+South.rise_again!
+```
+
+When you're uncertain:
+
+```
+South.rise_again?
+```
+
+For a complete list of options use `South.singleton_methods`
 
 ## Contributing
 
@@ -27,3 +45,7 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+## Credit
+
+Thanks to [@syntaxritual](https://github.com/syntaxritual) for being a pal.
